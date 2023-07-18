@@ -1,4 +1,0 @@
-# chain-vista
-Commit 3
-Date: 2023-06-09T13:20:02Z
-Fix edge case
